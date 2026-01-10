@@ -75,12 +75,8 @@
 ---
 
 
----
-
-
 “I debug with coffee, train models with hope, and still blame the data.”
 
----
 
 ---
 
