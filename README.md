@@ -1,4 +1,4 @@
-# Hi, I'm Shaista Afreen 👋
+### Hi, I'm Shaista Afreen 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShaistaAfreen09&label=Profile%20Views&color=brightgreen&style=flat" alt="ShaistaAfreen09" />
@@ -10,9 +10,9 @@
 
 🧩 **Also working with:** MERN • Python Backends • Cloud‑ready APIs
 
----
 
-## 🌐 Connect with me
+
+###  Connect with me
 
 <p align="center">
   <a href="https://github.com/ShaistaAfreen09" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
@@ -22,9 +22,9 @@
 
 > 
 
----
 
-## 💻 Tech Stack
+
+###  Tech Stack
 
 <table>
   <tr>
@@ -63,22 +63,20 @@
 </table>
 
 
----
 
-## 🧠 What I Build
+### What I Build
 
 * **Generative AI:** RAG systems, LLM chatbots, document Q&A, knowledge assistants
 * **Machine Learning:** end‑to‑end pipelines, feature engineering, model evaluation
 * **MERN Applications:** full‑stack apps with modern UI, APIs, and authentication
 * **Python Backends:** scalable services using FastAPI, Flask, and Django
 
----
+
 
 
 “I debug with coffee, train models with hope, and still blame the data.”
 
 
----
 
 ### 🤝 Let’s Collaborate
 
