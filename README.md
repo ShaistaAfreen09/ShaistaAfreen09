@@ -10,7 +10,7 @@
 
 🧩 **Also working with:** MERN • Python Backends • Cloud‑ready APIs
 
-
+<br/>
 
 ###  Connect with me
 
@@ -23,8 +23,10 @@
 > 
 
 
+<br/>
 
 ###  Tech Stack
+
 
 <table>
   <tr>
@@ -63,6 +65,7 @@
 </table>
 
 
+<br/>
 
 ### What I Build
 
@@ -71,12 +74,12 @@
 * **MERN Applications:** full‑stack apps with modern UI, APIs, and authentication
 * **Python Backends:** scalable services using FastAPI, Flask, and Django
 
-
+<br/>
 
 
 “I debug with coffee, train models with hope, and still blame the data.”
 
-
+<br/>
 
 ### 🤝 Let’s Collaborate
 
