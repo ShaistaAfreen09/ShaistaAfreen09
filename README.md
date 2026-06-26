@@ -79,14 +79,15 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
   </td>
-  <td width="25%" align="right">
-      <img src="https://media.tenor.com/t3Ls-xF_kuIAAAAm/beard-bear.webp" width="180" alt="Signature Cat"/>
+  <td width="100%" align="center">
+      <img src= https://cdn.pixabay.com/animation/2025/04/29/23/55/23-55-02-125_512.gif width="250" alt="Signature Cat"/>
     </td>
   </tr>
 </table>
 
 
 <br/>
+
 
 ### What I Build
 
