@@ -1,109 +1,71 @@
-### Hi, I'm Shaista Afreen 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShaistaAfreen09&label=Profile%20Views&color=brightgreen&style=flat" alt="ShaistaAfreen09" />
-</p>
+# Shaista Afreen
 
-🎓 **B.Tech-M.tech in Computer Scinece**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=6EE7B7&center=true&vCenter=true&width=560&lines=HPC+%2B+distributed+systems;Kubernetes+%2B+cloud-native+infra;Python+backend+%2B+observability;LLMs%2C+RAG%2C+model+serving;currently%3A+watching+a+job+leave+the+queue" alt="Typing SVG" />
+</a>
 
-🚀 **Focus:** Generative AI • Machine Learning • Data Science
+</div>
 
-🧩 **Also working with:** MERN • Python Backends • Cloud‑ready APIs
+<br>
 
-<br/>
+<div align="center">
+  <img src="./assets/works-on-my-machine.gif" width="480" alt="a deploy that worked locally and nowhere else">
+  <br>
+  <sub><code>$ kubectl logs -f  →  it's always DNS</code></sub>
+</div>
 
-###  Connect with me
+<br>
 
-<p align="center">
-  <a href="https://github.com/ShaistaAfreen09" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="[linkedin.com/in/shaista-afreen-540616266/](https://www.linkedin.com/in/shaista-afreen-540616266/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://leetcode.com/u/Shaista_Afreen/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,cpp,linux,kubernetes,docker,fastapi,postgres,nodejs,prometheus,pytorch,react&theme=dark&perline=12" alt="tech stack icons" />
+</div>
 
-> 
+<br>
 
+## What runs under the hood
 
-<br/>
+```diff
++ HPC & distributed systems   scheduling, workload orchestration, performance at scale
++ Linux / Ubuntu              where everything actually runs
++ Cloud-native                Kubernetes, containers, CI/CD
++ Backend engineering         Python, FastAPI, service design
++ Observability               Prometheus, OpenTelemetry
++ AI / GenAI                  LLMs, RAG, model-serving pipelines
+```
 
-###  Tech Stack
+<br>
 
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<table>
-  <tr>
-    <td width="75%">
-      
-## Tech Stack
+**GitHub stats**
 
-### Languages
-![Python](https://img.shields.io/badge/Python-1f425f?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+<img src="./assets/stats.svg" alt="github stats" />
 
-### AI • ML • GenAI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Systems-1E293B?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0F172A?style=for-the-badge)
+</td>
+<td valign="top" width="50%">
 
-### Cloud Native • Observability
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+**Top languages**
 
-### Full Stack • Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![WebSockets](https://img.shields.io/badge/WebSockets-1F2937?style=for-the-badge)
+<img src="./assets/top-langs.svg" alt="top languages" />
 
-### Databases • Data Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### Testing • Visualization
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
-![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-  </td>
-  <td width="100%" align="center">
-      <img src= https://cdn.pixabay.com/animation/2025/04/29/23/55/23-55-02-125_512.gif width="250" alt="Signature Cat"/>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
+<br>
 
-<br/>
+---
 
+<div align="center">
 
-### What I Build
+Off the clock: old maps, border disputes, and why some rock 400 million km away has a better excuse for its cracks than my last deploy.
 
-* **Generative AI:** RAG systems, LLM chatbots, document Q&A, knowledge assistants
-* **Machine Learning:** end‑to‑end pipelines, feature engineering, model evaluation
-* **MERN Applications:** full‑stack apps with modern UI, APIs, and authentication
-* **Python Backends:** scalable services using FastAPI, Flask, and Django
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="28" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="28" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="28" /></a>
 
-<br/>
-
-
-“I debug with coffee, train models with hope, and still blame the data.”
-
-<br/>
-
-### 🤝 Let’s Collaborate
-
-Open to **GenAI, ML, and full‑stack** projects. If it involves learning, scaling, or shipping — let’s build it 🚀
-
+</div>
