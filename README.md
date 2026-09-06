@@ -1,60 +1,56 @@
 <div align="center">
 
-# Shaista Afreen
+### hi, i'm shaista 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=6EE7B7&center=true&vCenter=true&width=560&lines=HPC+%2B+distributed+systems;Kubernetes+%2B+cloud-native+infra;Python+backend+%2B+observability;LLMs%2C+RAG%2C+model+serving;currently%3A+watching+a+job+leave+the+queue" alt="Typing SVG" />
-</a>
+### i make computers do stuff in a datacenter and occasionally on purpose
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/works-on-my-machine.gif" width="480" alt="a deploy that worked locally and nowhere else">
+  <img src="./assets/works-on-my-machine.gif" width="420" alt="it worked on my machine">
   <br>
-  <sub><code>$ kubectl logs -f  →  it's always DNS</code></sub>
+  <sub>the entire software industry, summarized</sub>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,cpp,linux,kubernetes,docker,fastapi,postgres,nodejs,prometheus,pytorch,react&theme=dark&perline=12" alt="tech stack icons" />
-</div>
+## the vibe
 
-<br>
-
-## What runs under the hood
-
-```diff
-+ HPC & distributed systems   scheduling, workload orchestration, performance at scale
-+ Linux / Ubuntu              where everything actually runs
-+ Cloud-native                Kubernetes, containers, CI/CD
-+ Backend engineering         Python, FastAPI, service design
-+ Observability               Prometheus, OpenTelemetry
-+ AI / GenAI                  LLMs, RAG, model-serving pipelines
+```
+🐧 linux user (it's a personality now)
+☸️  kubernetes — i whisper to pods, they still crash
+🐍 python — the snake that pays my rent
+🧠 AI/ML/LLMs/RAG — teaching computers to hallucinate professionally
+📈 HPC — i make clusters go brrr
+🔥 observability — watching things break, in real time, with graphs
 ```
 
 <br>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+### things i am extremely normal about
 
-**GitHub stats**
+- staring at a terminal at 2am like it owes me money
+- `git push` immediately followed by regret
+- fixing a bug by adding a print statement and never removing it
+- CI failing for a reason that only exists in CI
+- typing `sudo` before i even understand the problem
+- watching an HPC job sit in the queue longer than my attention span
 
-<img src="./assets/stats.svg" alt="github stats" />
+<br>
 
-</td>
-<td valign="top" width="50%">
+### certified skills
 
-**Top languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,kubernetes,docker,fastapi,postgres,pytorch,react,ts&theme=dark" alt="skills" />
+</div>
 
-<img src="./assets/top-langs.svg" alt="top languages" />
+<br>
 
-</td>
-</tr>
-</table>
+### honesty corner
+
+> debugging and i have a situationship. it's not love, it's not hate, it's 2am and we're both still here.
 
 <br>
 
@@ -62,10 +58,10 @@
 
 <div align="center">
 
-Off the clock: old maps, border disputes, and why some rock 400 million km away has a better excuse for its cracks than my last deploy.
+also into: old maps, border drama from 500 years ago, and why some moon out there has more structural integrity than my code
 
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="28" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="28" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="28" /></a>
+<br>
+
+<a href="linkedin.com/in/shaista-afreen-540616266/">linkedin</a> · <a href="https://x.com/_Shai5ta">twitter</a> · <a href="mailto:shaistaafreen687@example.com">Email</a>
 
 </div>
