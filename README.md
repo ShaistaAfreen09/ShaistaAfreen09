@@ -62,6 +62,6 @@ also into: old maps, border drama from 500 years ago, and why some moon out ther
 
 <br>
 
-<a href="linkedin.com/in/shaista-afreen-540616266/">linkedin</a> · <a href="https://x.com/_Shai5ta">twitter</a> · <a href="mailto:shaistaafreen687@example.com">Email</a>
+<a href="https://www.linkedin.com/in/shaista-afreen-540616266/">linkedin</a> · <a href="https://x.com/_Shai5ta">twitter</a> · <a href="mailto:shaistaafreen687@example.com">Email</a>
 
 </div>
